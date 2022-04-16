@@ -1,3 +1,10 @@
-# Modify this portfolio
+# Darius Owens Portfolio
 
-Make it your own! 
+
+
+
+
+
+### Resources
+
+- dariusowensportfolio.netlify.app 
