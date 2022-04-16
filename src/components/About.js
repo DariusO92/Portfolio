@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+import profile from 'images/20200507_101844.jpg';
 
 class About extends Component {
   render() {
@@ -27,7 +28,7 @@ class About extends Component {
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    src={profilepic}
+                    src={profile}
                     alt="Avatar placeholder"
                   />
                   <Icon
