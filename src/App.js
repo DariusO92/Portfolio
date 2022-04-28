@@ -45,7 +45,6 @@ class App extends Component {
     this.loadSharedData();
     this.applyPickedLanguage(
       window.$primaryLanguage,
-      window.$secondaryLanguageIconId
     );
   }
 
